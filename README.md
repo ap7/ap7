@@ -1,21 +1,33 @@
-### Hi there 👋, my name is Arhouston
-#### I am Android developer
-![I am Android developer](https://developer.softbankrobotics.com/sites/default/files/content/202012/header_78.jpg)
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-I am passionate about cooking, football and especially football manager. I also have the entrepreneurial spirit that led me to develop [**WestIndizFood**](https://www.instagram.com/westindizfood.fr/?hl=fr). 
+</head>
+<body>
+  <h1>Politique de Confidentialité</h1>
+  <p>Dernière mise à jour : Mai 2025</p>
 
-An [Android app](https://androidappsapk.co/detail-westindizfood/) allowing users to have a Caribbean meal delivered and paid from the app. 
+  <h2>1. Introduction</h2>
+  <p>Bienvenue sur Telma. Cette politique de confidentialité explique comment nous traitons les données personnelles des utilisateurs, en particulier l'utilisation de la caméra.</p>
 
-So I created a whole ecosystem (webservice, Android application dedicate to potential customers, applications dedicate to deliverers) to launch this business in parallel with my official work at Softbank Robotics Europe.
+  <h2>2. Utilisation de la Caméra</h2>
+  <p>L’application Telma utilise l’autorisation <code>android.permission.CAMERA</code> uniquement pour permettre à l’utilisateur de prendre une photo de son réfrigérateur, placard ou cellier.</p>
 
-Skills: Android / Kotlin / Java / PHP / HTML / CSS
+  <ul>
+    <li>Aucune photo n’est stockée sur nos serveurs.</li>
+    <li>Les images sont utilisées uniquement localement ou temporairement pour analyser les ingrédients et générer des recettes personnalisées via une IA.</li>
+    <li>Aucune donnée personnelle n’est collectée, vendue ou partagée.</li>
+  </ul>
 
-- 📫 How to reach me: ap7@hotmail.fr 
+  <h2>3. Sécurité</h2>
+  <p>Nous mettons tout en œuvre pour garantir la confidentialité et la sécurité des données utilisées dans le cadre de l’application. Les données analysées par l’IA sont traitées de manière temporaire et ne sont pas conservées.</p>
 
+  <h2>4. Consentement</h2>
+  <p>En utilisant Telma, vous consentez à l'utilisation de la caméra dans les conditions décrites ci-dessus.</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AP7)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AP7)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AP7&show_icons=true&count_private=true)  
-
+  <h2>5. Contact</h2>
+  <p>Pour toute question relative à la confidentialité, vous pouvez nous contacter à : snapcook.ia@gmail.com</p>
+</body>
+</html>
