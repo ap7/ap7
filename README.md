@@ -11,7 +11,7 @@
     <!-- Lien vers la version française (page actuelle) -->
     <a href="privacy_fr.html" title="Français">🇫🇷</a>
     <!-- Lien vers la version anglaise -->
-    <a href="privacy_en.html" title="English">🇬🇧</a>
+    <a href="https://github.com/ap7/ap7/blob/main/privacy_en.md" title="English">🇬🇧</a>
   </div>
 
   <h1>Politique de Confidentialité</h1>
