@@ -3,21 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy – Telma</title>
-  <style>
-    .lang-selector {
-      position: absolute;
-      top: 16px;
-      right: 16px;
-      display: flex;
-      gap: 8px;
-    }
-    .lang-selector a {
-      text-decoration: none;
-      font-size: 24px;
-      line-height: 1;
-    }
-  </style>
+
 </head>
 <body>
   <!-- Sélecteur : version française ↔ version anglaise -->
