@@ -3,22 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Politique de Confidentialité – Telma</title>
-  <style>
-    /* Style basique pour les icônes de langue */
-    .lang-selector {
-      position: absolute;
-      top: 16px;
-      right: 16px;
-      display: flex;
-      gap: 8px;
-    }
-    .lang-selector a {
-      text-decoration: none;
-      font-size: 24px; /* Taille de l’icône drapeau */
-      line-height: 1;
-    }
-  </style>
+
 </head>
 <body>
   <!-- Sélecteur de langue en haut à droite -->
